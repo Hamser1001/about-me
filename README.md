@@ -37,7 +37,7 @@ I’m currently building my skills in web development and exploring frameworks.
 
 ## Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.serhani94@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-hamza.serhani94@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hamza.serhani94@outlook.com)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-hamza.serh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamza.serh)
 &nbsp;
