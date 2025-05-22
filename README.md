@@ -7,30 +7,31 @@ I’m currently building my skills in web development and exploring frameworks.
 
 
 <p align="left">
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30px"></object>
+  <img alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30px"></object>
+  <img alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"></object>
+  <img alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="30px"></object>
+  <img alt="Adobe XD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"></object>
+  <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"></object>
+  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"></object>
+  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px"></object>
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px"></object>
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px"></object>
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px"></object>
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   &nbsp;
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30px"></object>
+  <img alt="WordPress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </p>
+
 
 
 
