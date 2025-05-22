@@ -6,7 +6,7 @@ Hi, I’m Hamza! A self-taught learner with a passion for technology and program
 I’m currently building my skills in web development and exploring frameworks.
 
 
-<p align="left">
+<p align="left" style="pointer-events: none;">
   <img alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   &nbsp;
   <img alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -31,6 +31,7 @@ I’m currently building my skills in web development and exploring frameworks.
   &nbsp;
   <img alt="WordPress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </p>
+
 
 
 ## Contact Me
